@@ -11,7 +11,7 @@
 * `pkg install python -y`
 * `pkg install python3 -y`
 * `pkg install git -y`
-* git clone https://github.com/ZineddineAbdou/ZcamPass
+* `git clone https://github.com/ZineddineAbdou/ZcamPass`
 * `cd $HOME`
 * `ls`
 * `cd ZCamPass`
